@@ -13,5 +13,5 @@ Reference:
 [3] https://github.com/yusugomori/DeepLearning
 
 Code Style:
-Too young, too simple, sometimes naive.
+Too young, too simple, sometimes naive.\You made me laugh :)
 If any problem, please let me know.
